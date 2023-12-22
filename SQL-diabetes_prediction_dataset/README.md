@@ -1,3 +1,4 @@
+**SQL Diabetes Prediction**
 1. Retrieve the Patient_id and ages of all patients.
 2. Select all female patients who are older than 40.
 3. Calculate the average BMI of patients.
